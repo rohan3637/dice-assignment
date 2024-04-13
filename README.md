@@ -1,7 +1,9 @@
 <h1>Weather Services - API Interface for Weather Application</h1>
 
 # Introduction
-This is a REST APIs for retrieving weather forecast data based on for a particular city. It provides two main functionalities: fetching a summary of the weather forecast and retrieving hourly forecast details for a city.
+This is a REST APIs for retrieving weather forecast data. It provides two main functionalities: 
+1. fetching a summary of the weather forecast for a city
+2. retrieving hourly forecast details for a city.
 
 # Getting Started
 * Download and install git, Java JDK 17+, Maven 3+ and any convenient IDE of your choice that supports Java 17+, Maven and Git
